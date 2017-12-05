@@ -2,27 +2,33 @@
     "styles": [
         {
             "name": "Default",
-            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/default.json"
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/default.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/Default.png"
         },
         {
             "name": "Silver",
-            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/silver.json"
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/silver.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/Silver.png"
         },
         {
             "name": "Retro",
-            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/retro.json"
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/retro.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/Retro.png"
         },
         {
             "name": "Dark",
-            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/dark.json"
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/dark.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/Dark.png"
         },
         {
             "name": "Night",
-            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/night.json"
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/night.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/Night.png"
         },
         {
             "name": "Aubergine",
-            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/aubergine.json"
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/aubergine.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/Aubergine.png"
         }
     ]
 }
