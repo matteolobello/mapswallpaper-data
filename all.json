@@ -1,0 +1,28 @@
+{
+    "styles": [
+        {
+            "name": "Default",
+            "src": ""
+        },
+        {
+            "name": "Silver",
+            "src": ""
+        },
+        {
+            "name": "Retro",
+            "src": ""
+        },
+        {
+            "name": "Dark",
+            "src": ""
+        },
+        {
+            "name": "Night",
+            "src": ""
+        },
+        {
+            "name": "Aubergine",
+            "src": ""
+        }
+    ]
+}
