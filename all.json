@@ -2,27 +2,27 @@
     "styles": [
         {
             "name": "Default",
-            "src": ""
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/default.json"
         },
         {
             "name": "Silver",
-            "src": ""
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/silver.json"
         },
         {
             "name": "Retro",
-            "src": ""
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/retro.json"
         },
         {
             "name": "Dark",
-            "src": ""
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/dark.json"
         },
         {
             "name": "Night",
-            "src": ""
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/night.json"
         },
         {
             "name": "Aubergine",
-            "src": ""
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/aubergine.json"
         }
     ]
 }
