@@ -1,34 +1,79 @@
 {
     "styles": [
         {
-            "name": "Default",
-            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/default.json",
-            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/Default.png"
+            "name": "1",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/1.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/1.png"
         },
         {
-            "name": "Silver",
-            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/silver.json",
-            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/Silver.png"
+            "name": "2",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/2.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/2.png"
         },
         {
-            "name": "Retro",
-            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/retro.json",
-            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/Retro.png"
+            "name": "3",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/3.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/3.png"
         },
         {
-            "name": "Dark",
-            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/dark.json",
-            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/Dark.png"
+            "name": "4",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/4.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/4.png"
         },
         {
-            "name": "Night",
-            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/night.json",
-            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/Night.png"
+            "name": "5",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/5.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/5.png"
         },
         {
-            "name": "Aubergine",
-            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/aubergine.json",
-            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/Aubergine.png"
+            "name": "6",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/6.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/6.png"
+        },
+        {
+            "name": "7",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/7.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/7.png"
+        },
+        {
+            "name": "8",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/8.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/8.png"
+        },
+        {
+            "name": "9",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/9.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/9.png"
+        },
+        {
+            "name": "10",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/10.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/10.png"
+        },
+        {
+            "name": "11",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/11.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/11.png"
+        },
+        {
+            "name": "12",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/12.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/12.png"
+        },
+        {
+            "name": "13",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/13.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/13.png"
+        },
+        {
+            "name": "14",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/14.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/14.png"
+        },
+        {
+            "name": "15",
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/15.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/15.png"
         }
     ]
 }
