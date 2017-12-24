@@ -1,1 +1,74 @@
-[   {     "elementType": "labels",     "stylers": [       {         "visibility": "off"       }     ]   },   {     "featureType": "administrative.land_parcel",     "stylers": [       {         "visibility": "off"       }     ]   },   {     "featureType": "administrative.neighborhood",     "stylers": [       {         "visibility": "off"       }     ]   },   {     "featureType": "landscape.man_made",     "stylers": [       {         "color": "#fcf7e2"       }     ]   },   {     "featureType": "landscape.natural",     "stylers": [       {         "color": "#ffecad"       }     ]   },   {     "featureType": "poi",     "stylers": [       {         "color": "#ffecad"       }     ]   },   {     "featureType": "road",     "stylers": [       {         "color": "#569dd3"       }     ]   },   {     "featureType": "transit",     "stylers": [       {         "color": "#569dd3"       }     ]   },   {     "featureType": "water",     "stylers": [       {         "color": "#fcdd7e"       }     ]   } ]
+[
+  {
+    "elementType": "labels",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.land_parcel",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.neighborhood",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "landscape.man_made",
+    "stylers": [
+      {
+        "color": "#fcf7e2"
+      }
+    ]
+  },
+  {
+    "featureType": "landscape.natural",
+    "stylers": [
+      {
+        "color": "#ffecad"
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "stylers": [
+      {
+        "color": "#ffecad"
+      }
+    ]
+  },
+  {
+    "featureType": "road",
+    "stylers": [
+      {
+        "color": "#569dd3"
+      }
+    ]
+  },
+  {
+    "featureType": "transit",
+    "stylers": [
+      {
+        "color": "#569dd3"
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "stylers": [
+      {
+        "color": "#fcdd7e"
+      }
+    ]
+  }
+]

@@ -1,1 +1,74 @@
-[   {     "elementType": "labels",     "stylers": [       {         "visibility": "off"       }     ]   },   {     "featureType": "administrative.land_parcel",     "stylers": [       {         "visibility": "off"       }     ]   },   {     "featureType": "administrative.neighborhood",     "stylers": [       {         "visibility": "off"       }     ]   },   {     "featureType": "landscape.man_made",     "stylers": [       {         "color": "#4b95d2"       }     ]   },   {     "featureType": "landscape.natural",     "stylers": [       {         "color": "#314e88"       }     ]   },   {     "featureType": "poi",     "stylers": [       {         "color": "#314e88"       }     ]   },   {     "featureType": "road",     "stylers": [       {         "color": "#3789d2"       }     ]   },   {     "featureType": "transit",     "stylers": [       {         "color": "#3789d2"       }     ]   },   {     "featureType": "water",     "stylers": [       {         "color": "#cad6e2"       }     ]   } ]
+[
+  {
+    "elementType": "labels",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.land_parcel",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.neighborhood",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "landscape.man_made",
+    "stylers": [
+      {
+        "color": "#4b95d2"
+      }
+    ]
+  },
+  {
+    "featureType": "landscape.natural",
+    "stylers": [
+      {
+        "color": "#314e88"
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "stylers": [
+      {
+        "color": "#314e88"
+      }
+    ]
+  },
+  {
+    "featureType": "road",
+    "stylers": [
+      {
+        "color": "#3789d2"
+      }
+    ]
+  },
+  {
+    "featureType": "transit",
+    "stylers": [
+      {
+        "color": "#3789d2"
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "stylers": [
+      {
+        "color": "#cad6e2"
+      }
+    ]
+  }
+]
