@@ -119,6 +119,11 @@
             "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/24.json",
             "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/24.png",
             "predominant_color": "#63423a"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/styles/25.json",
+            "img": "https://raw.githubusercontent.com/OhMyLob/MapsWallpaper-Data/master/img/25.png",
+            "predominant_color": "#4e4c4d"
         }
     ]
 }
